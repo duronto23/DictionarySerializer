@@ -1,0 +1,7 @@
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializer\bin\Debug\DictionarySerializer.exe.config
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializer\bin\Debug\DictionarySerializer.exe
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializer\bin\Debug\DictionarySerializer.pdb
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializer\obj\Debug\DictionarySerializer.csprojResolveAssemblyReference.cache
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializer\obj\Debug\DictionarySerializer.csproj.CoreCompileInputs.cache
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializer\obj\Debug\DictionarySerializer.exe
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializer\obj\Debug\DictionarySerializer.pdb

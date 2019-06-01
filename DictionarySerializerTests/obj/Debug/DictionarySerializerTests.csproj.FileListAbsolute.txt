@@ -1,0 +1,16 @@
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\DictionarySerializerTests.dll
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\DictionarySerializerTests.pdb
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\DictionarySerializer.exe
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\DictionarySerializer.pdb
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\DictionarySerializer.exe.config
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\obj\Debug\DictionarySerializerTests.csprojResolveAssemblyReference.cache
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\obj\Debug\DictionarySerializerTests.csproj.CoreCompileInputs.cache
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\obj\Debug\DictionarySerializerTests.dll
+D:\Work\Bongo Test\DictionarySerializer\DictionarySerializerTests\obj\Debug\DictionarySerializerTests.pdb
